@@ -1,0 +1,296 @@
+canasta_ipc,cod,subclase,peso,iva_vig,iva_ref,share_cambia,var_precio,nota
+total,01110100,Arroz,0.062000000000000006,0.0,0.0,0.0,0.0,"Arroz: exento, sigue exento"
+total,01110200,Pastas alimenticias,0.008,0.05,0.19,1.0,0.1333333333333333,Pastas 5%->19% (468-1 eliminado)
+total,01110300,Avena y sus derivados,0.002,0.05,0.19,1.0,0.1333333333333333,Avena hojuelas 5%->19%
+total,01110500,Trigo y sus derivados,0.0013333333333333333,0.05,0.19,1.0,0.1333333333333333,Harina de trigo 5%->19%
+total,01110600,Maíz y sus derivados,0.004666666666666667,0.05,0.19,1.0,0.1333333333333333,Harinas de maíz 5%->19% (11.02); maíz trillado excl.->19% (ESTIMADO todo a 5%)
+total,01110800,Pan,0.04533333333333334,0.0,0.0,0.0,0.0,"Pan y arepa: excluido, sigue excluido (19.05)"
+total,01119800,"Otras harinas, cereales y almidones",0.02,0.19,0.19,0.0,0.0,Harina tortas/cereal 19% sin cambio; arepa precocida sigue excluida (ESTIMADO sin cambio)
+total,01119900,Otros productos de panadería,0.018000000000000002,0.19,0.19,0.0,0.0,Galletas 19% sin cambio
+total,01120100,Carne de res y derivados,0.12533333333333332,0.0,0.0,0.0,0.0,Res: exento sigue exento
+total,01120200,Carne de cerdo y derivados,0.032,0.0,0.0,0.0,0.0,Cerdo: exento sigue exento
+total,01120300,Carne de aves,0.08266666666666667,0.0,0.0,0.0,0.0,Pollo: exento sigue exento
+total,01120500,"Carnes preparadas, charcutería y otros productos conteniendo carne",0.02666666666666667,0.05,0.0,0.4,-0.01904761904761907,Mortadela/salchichón 5%->exento (40% ESTIMADO); salchicha/jamón/chorizo 19%
+total,01130300,Productos de rio y mar (incluye pescados y camarones frescos o congelados y pescado enlatado como sardinas y atún),0.04,0.0,0.0,0.0,0.0,Pescado fresco exento; enlatado sin cambio (ESTIMADO sin cambio)
+total,01140100,Leche,0.068,0.0,0.0,0.0,0.0,Leche exenta sigue exenta
+total,01140200,Quesos y productos afines,0.03066666666666667,0.0,0.19,0.7,0.13299999999999995,Queso fresco exento->19% (no está en nuevo art. 477); 70% queso fresco ESTIMADO
+total,01140500,Huevos,0.04533333333333334,0.0,0.0,0.0,0.0,Huevos exentos siguen exentos
+total,01149900,Otros derivados de la leche,0.016,0.19,0.19,0.0,0.0,Yogur/kumis 19% sin cambio (ESTIMADO)
+total,01150100,Aceites comestibles,0.030000000000000002,0.19,0.19,0.0,0.0,Aceite refinado 19% sin cambio (solo aceites en bruto en 468-1)
+total,01150200,Mantequilla de vaca,0.0033333333333333335,0.19,0.19,0.0,0.0,Mantequilla 19%
+total,01150500,Margarinas y grasas animales y vegetales,0.002,0.19,0.19,0.0,0.0,Margarinas 19%
+total,01160200,Frutas congeladas o en pulpa,0.0013333333333333333,0.19,0.19,0.0,0.0,Pulpa/congeladas 19% (ESTIMADO)
+total,01160300,"Frutos secos y nueces, cáscaras de frutas y semillas comestibles",0.0013333333333333333,0.19,0.19,0.0,0.0,Frutos secos 19% (ESTIMADO)
+total,01160500,Naranjas,0.004,0.0,0.19,1.0,0.18999999999999995,Naranjas excluidas->19% (08.05 sale del 424)
+total,01160600,Bananos,0.004,0.0,0.19,1.0,0.18999999999999995,Bananos excluidos->19% (08.03)
+total,01160700,Tomate de árbol,0.004666666666666667,0.0,0.19,1.0,0.18999999999999995,Tomate de árbol excluido->19% (08.10)
+total,01160800,Moras,0.004666666666666667,0.0,0.19,1.0,0.18999999999999995,Moras excluidas->19% (08.10)
+total,01160900,Frutas frescas (ii),0.04666666666666666,0.0,0.19,1.0,0.18999999999999995,Frutas frescas excluidas->19% (cap. 08)
+total,01170200,Legumbres secas,0.016,0.0,0.19,1.0,0.18999999999999995,"Legumbres secas (fríjol, lenteja 07.13) excluidas->19%"
+total,01170300,Legumbres y hortalizas en conserva y deshidratadas,0.004,0.19,0.19,0.0,0.0,Conservas 19% sin cambio
+total,01170400,Plátanos,0.020666666666666667,0.0,0.19,1.0,0.18999999999999995,Plátano excluido->19% (08.03)
+total,01170500,Papas,0.02,0.0,0.0,0.0,0.0,Papa excluida sigue excluida (07.01)
+total,01170600,Yuca para consumo en el hogar,0.007333333333333333,0.0,0.0,0.0,0.0,Yuca excluida sigue excluida (07.14)
+total,01171100,"Productos derivados de los tubérculos, raíces y plátanos",0.0006666666666666666,0.19,0.19,0.0,0.0,Derivados tubérculos 19% (ESTIMADO)
+total,01171200,"Arracacha, ñame y otros tubérculos",0.002,0.0,0.0,0.0,0.0,Arracacha/ñame siguen excluidos (07.14)
+total,01171300,Tomate,0.012,0.0,0.19,1.0,0.18999999999999995,Tomate excluido->19% (07.02)
+total,01171400,Cebolla,0.013333333333333334,0.0,0.19,1.0,0.18999999999999995,Cebolla excluida->19% (07.03)
+total,01171500,Zanahoria,0.0026666666666666666,0.0,0.19,1.0,0.18999999999999995,Zanahoria excluida->19% (07.06)
+total,01171600,Hortalizas y legumbres frescas (ii),0.02266666666666667,0.0,0.19,0.75,0.14249999999999996,Hortalizas frescas excl.->19%; hortalizas de vaina (07.08) siguen excl. (25% ESTIMADO)
+total,01180100,Azúcar y otros endulzantes,0.017333333333333333,0.05,0.19,1.0,0.1333333333333333,Azúcar 5%->19%
+total,01180200,Panela cruda para consumo en el hogar,0.010666666666666666,0.0,0.0,0.0,0.0,Panela sigue excluida
+total,01180300,"Jaleas, mermeladas, miel y similares",0.0033333333333333335,0.0,0.19,0.5,0.09499999999999997,Miel/bocadillo artesanal excl.->19%; mermelada 19% (50% ESTIMADO)
+total,01180500,"Dulces, confites, caramelos, bombones, chocolatinas, chicles, masmelos, cocadas para consumo en el hogar",0.004,0.19,0.19,0.0,0.0,Dulces 19%
+total,01180600,"Helados, conos, paletas, vasitos, refrescos congelados y tortas heladas para consumo en el hogar",0.004,0.19,0.19,0.0,0.0,Helados 19%
+total,01180700,"Gelatinas, flanes y pudines en polvo para preparar",0.0006666666666666666,0.19,0.19,0.0,0.0,Gelatinas 19%
+total,01190100,"Salsas, pastas y aderezos",0.010666666666666666,0.19,0.19,0.0,0.0,Salsas 19%
+total,01190200,Sal,0.0013333333333333333,0.0,0.19,1.0,0.18999999999999995,Sal excluida->19% (25.01 sale del 424)
+total,01190500,"Sopas, cremas, caldos y consomés",0.004,0.19,0.19,0.0,0.0,Caldos 19%
+total,01190600,"Frituras: papas fritas, chitos, maizitos, patacones, besitos, etc., para consumo en el hogar",0.007333333333333333,0.19,0.19,0.0,0.0,Frituras 19%
+total,01190800,Condimentos y hierbas culinarias,0.004,0.0,0.19,0.5,0.09499999999999997,Condimentos: hierbas frescas excl.->19% (50% ESTIMADO)
+total,01191100,Leche en polvo para lactantes,0.004,0.0,0.0,0.0,0.0,Fórmulas lácteas exentas siguen exentas
+total,01199900,"Otros alimentos precocidos y preparados: ajiaco, lenteja, frijol, lechona enlatada y similares",0.0006666666666666666,0.19,0.19,0.0,0.0,Precocidos 19%
+total,01210100,Café y productos a base de café,0.014,0.05,0.19,1.0,0.1333333333333333,Café 5%->19%
+total,01210200,Chocolate y productos a base de chocolate,0.012,0.05,0.19,0.7,0.09333333333333331,Chocolate de mesa 5%->19% (70% ESTIMADO); instantáneo 19%
+total,01210300,Té e infusiones (para bebidas calientes),0.0006666666666666666,0.19,0.19,0.0,0.0,Té 19%
+total,01220100,Agua mineral (con y sin gas) para consumo en el hogar,0.008,0.0,0.0,0.0,0.0,Agua sin azúcar sigue excluida (22.01)
+total,01220600,"Refrescos líquidos empacados (jugos, té fríos y bebidas hidratantes)",0.009333333333333334,0.19,0.19,0.0,0.0,Jugos empacados 19%
+total,01220700,Concentrados para preparar refrescos,0.002,0.19,0.19,0.0,0.0,Refrescos en polvo 19%
+total,01221100,Gaseosas y maltas para consumo en el hogar,0.029333333333333333,0.19,0.19,0.0,0.0,Gaseosas 19%
+total,01221200,"Bebidas energizantes y a base de arroz, soya, coco y similares",0.0013333333333333333,0.19,0.19,0.0,0.0,Energizantes 19%
+pobres,01110100,Arroz,0.10742761225346202,0.0,0.0,0.0,0.0,"Arroz: exento, sigue exento"
+pobres,01110200,Pastas alimenticias,0.010071338648762064,0.05,0.19,1.0,0.1333333333333333,Pastas 5%->19% (468-1 eliminado)
+pobres,01110300,Avena y sus derivados,0.001678556441460344,0.05,0.19,1.0,0.1333333333333333,Avena hojuelas 5%->19%
+pobres,01110500,Trigo y sus derivados,0.001678556441460344,0.05,0.19,1.0,0.1333333333333333,Harina de trigo 5%->19%
+pobres,01110600,Maíz y sus derivados,0.008812421317666805,0.05,0.19,1.0,0.1333333333333333,Harinas de maíz 5%->19% (11.02); maíz trillado excl.->19% (ESTIMADO todo a 5%)
+pobres,01110800,Pan,0.050776332354175405,0.0,0.0,0.0,0.0,"Pan y arepa: excluido, sigue excluido (19.05)"
+pobres,01119800,"Otras harinas, cereales y almidones",0.012169534200587494,0.19,0.19,0.0,0.0,Harina tortas/cereal 19% sin cambio; arepa precocida sigue excluida (ESTIMADO sin cambio)
+pobres,01119900,Otros productos de panadería,0.013848090642047839,0.19,0.19,0.0,0.0,Galletas 19% sin cambio
+pobres,01120100,Carne de res y derivados,0.11624003357112882,0.0,0.0,0.0,0.0,Res: exento sigue exento
+pobres,01120200,Carne de cerdo y derivados,0.022240872849349558,0.0,0.0,0.0,0.0,Cerdo: exento sigue exento
+pobres,01120300,Carne de aves,0.08560637851447754,0.0,0.0,0.0,0.0,Pollo: exento sigue exento
+pobres,01120500,"Carnes preparadas, charcutería y otros productos conteniendo carne",0.021401594628619385,0.05,0.0,0.4,-0.01904761904761907,Mortadela/salchichón 5%->exento (40% ESTIMADO); salchicha/jamón/chorizo 19%
+pobres,01130300,Productos de rio y mar (incluye pescados y camarones frescos o congelados y pescado enlatado como sardinas y atún),0.03734788082249266,0.0,0.0,0.0,0.0,Pescado fresco exento; enlatado sin cambio (ESTIMADO sin cambio)
+pobres,01140100,Leche,0.05791019723038186,0.0,0.0,0.0,0.0,Leche exenta sigue exenta
+pobres,01140200,Quesos y productos afines,0.02895509861519093,0.0,0.19,0.7,0.13299999999999995,Queso fresco exento->19% (no está en nuevo art. 477); 70% queso fresco ESTIMADO
+pobres,01140500,Huevos,0.054972723457826264,0.0,0.0,0.0,0.0,Huevos exentos siguen exentos
+pobres,01149900,Otros derivados de la leche,0.01049097775912715,0.19,0.19,0.0,0.0,Yogur/kumis 19% sin cambio (ESTIMADO)
+pobres,01150100,Aceites comestibles,0.03189257238774654,0.19,0.19,0.0,0.0,Aceite refinado 19% sin cambio (solo aceites en bruto en 468-1)
+pobres,01150200,Mantequilla de vaca,0.002517834662190516,0.19,0.19,0.0,0.0,Mantequilla 19%
+pobres,01150500,Margarinas y grasas animales y vegetales,0.001678556441460344,0.19,0.19,0.0,0.0,Margarinas 19%
+pobres,01160200,Frutas congeladas o en pulpa,0.000839278220730172,0.19,0.19,0.0,0.0,Pulpa/congeladas 19% (ESTIMADO)
+pobres,01160300,"Frutos secos y nueces, cáscaras de frutas y semillas comestibles",0.000419639110365086,0.19,0.19,0.0,0.0,Frutos secos 19% (ESTIMADO)
+pobres,01160500,Naranjas,0.00209819555182543,0.0,0.19,1.0,0.18999999999999995,Naranjas excluidas->19% (08.05 sale del 424)
+pobres,01160600,Bananos,0.003357112882920688,0.0,0.19,1.0,0.18999999999999995,Bananos excluidos->19% (08.03)
+pobres,01160700,Tomate de árbol,0.005455308434746118,0.0,0.19,1.0,0.18999999999999995,Tomate de árbol excluido->19% (08.10)
+pobres,01160800,Moras,0.003776751993285774,0.0,0.19,1.0,0.18999999999999995,Moras excluidas->19% (08.10)
+pobres,01160900,Frutas frescas (ii),0.026017624842635333,0.0,0.19,1.0,0.18999999999999995,Frutas frescas excluidas->19% (cap. 08)
+pobres,01170200,Legumbres secas,0.0180444817456987,0.0,0.19,1.0,0.18999999999999995,"Legumbres secas (fríjol, lenteja 07.13) excluidas->19%"
+pobres,01170300,Legumbres y hortalizas en conserva y deshidratadas,0.002517834662190516,0.19,0.19,0.0,0.0,Conservas 19% sin cambio
+pobres,01170400,Plátanos,0.027696181284095678,0.0,0.19,1.0,0.18999999999999995,Plátano excluido->19% (08.03)
+pobres,01170500,Papas,0.02349979018044482,0.0,0.0,0.0,0.0,Papa excluida sigue excluida (07.01)
+pobres,01170600,Yuca para consumo en el hogar,0.009232060428031891,0.0,0.0,0.0,0.0,Yuca excluida sigue excluida (07.14)
+pobres,01171100,"Productos derivados de los tubérculos, raíces y plátanos",0.000419639110365086,0.19,0.19,0.0,0.0,Derivados tubérculos 19% (ESTIMADO)
+pobres,01171200,"Arracacha, ñame y otros tubérculos",0.00209819555182543,0.0,0.0,0.0,0.0,Arracacha/ñame siguen excluidos (07.14)
+pobres,01171300,Tomate,0.013848090642047839,0.0,0.19,1.0,0.18999999999999995,Tomate excluido->19% (07.02)
+pobres,01171400,Cebolla,0.017205203524968526,0.0,0.19,1.0,0.18999999999999995,Cebolla excluida->19% (07.03)
+pobres,01171500,Zanahoria,0.002517834662190516,0.0,0.19,1.0,0.18999999999999995,Zanahoria excluida->19% (07.06)
+pobres,01171600,Hortalizas y legumbres frescas (ii),0.017205203524968526,0.0,0.19,0.75,0.14249999999999996,Hortalizas frescas excl.->19%; hortalizas de vaina (07.08) siguen excl. (25% ESTIMADO)
+pobres,01180100,Azúcar y otros endulzantes,0.020562316407889213,0.05,0.19,1.0,0.1333333333333333,Azúcar 5%->19%
+pobres,01180200,Panela cruda para consumo en el hogar,0.01594628619387327,0.0,0.0,0.0,0.0,Panela sigue excluida
+pobres,01180300,"Jaleas, mermeladas, miel y similares",0.002517834662190516,0.0,0.19,0.5,0.09499999999999997,Miel/bocadillo artesanal excl.->19%; mermelada 19% (50% ESTIMADO)
+pobres,01180500,"Dulces, confites, caramelos, bombones, chocolatinas, chicles, masmelos, cocadas para consumo en el hogar",0.00419639110365086,0.19,0.19,0.0,0.0,Dulces 19%
+pobres,01180600,"Helados, conos, paletas, vasitos, refrescos congelados y tortas heladas para consumo en el hogar",0.003357112882920688,0.19,0.19,0.0,0.0,Helados 19%
+pobres,01180700,"Gelatinas, flanes y pudines en polvo para preparar",0.000419639110365086,0.19,0.19,0.0,0.0,Gelatinas 19%
+pobres,01190100,"Salsas, pastas y aderezos",0.007133864876206463,0.19,0.19,0.0,0.0,Salsas 19%
+pobres,01190200,Sal,0.001678556441460344,0.0,0.19,1.0,0.18999999999999995,Sal excluida->19% (25.01 sale del 424)
+pobres,01190500,"Sopas, cremas, caldos y consomés",0.005035669324381032,0.19,0.19,0.0,0.0,Caldos 19%
+pobres,01190600,"Frituras: papas fritas, chitos, maizitos, patacones, besitos, etc., para consumo en el hogar",0.006714225765841376,0.19,0.19,0.0,0.0,Frituras 19%
+pobres,01190800,Condimentos y hierbas culinarias,0.004616030214015946,0.0,0.19,0.5,0.09499999999999997,Condimentos: hierbas frescas excl.->19% (50% ESTIMADO)
+pobres,01191100,Leche en polvo para lactantes,0.00209819555182543,0.0,0.0,0.0,0.0,Fórmulas lácteas exentas siguen exentas
+pobres,01199900,"Otros alimentos precocidos y preparados: ajiaco, lenteja, frijol, lechona enlatada y similares",0.000839278220730172,0.19,0.19,0.0,0.0,Precocidos 19%
+pobres,01210100,Café y productos a base de café,0.013008812421317666,0.05,0.19,1.0,0.1333333333333333,Café 5%->19%
+pobres,01210200,Chocolate y productos a base de chocolate,0.01049097775912715,0.05,0.19,0.7,0.09333333333333331,Chocolate de mesa 5%->19% (70% ESTIMADO); instantáneo 19%
+pobres,01210300,Té e infusiones (para bebidas calientes),0.000419639110365086,0.19,0.19,0.0,0.0,Té 19%
+pobres,01220100,Agua mineral (con y sin gas) para consumo en el hogar,0.005035669324381032,0.0,0.0,0.0,0.0,Agua sin azúcar sigue excluida (22.01)
+pobres,01220600,"Refrescos líquidos empacados (jugos, té fríos y bebidas hidratantes)",0.007133864876206463,0.19,0.19,0.0,0.0,Jugos empacados 19%
+pobres,01220700,Concentrados para preparar refrescos,0.004616030214015946,0.19,0.19,0.0,0.0,Refrescos en polvo 19%
+pobres,01221100,Gaseosas y maltas para consumo en el hogar,0.029794376835921104,0.19,0.19,0.0,0.0,Gaseosas 19%
+pobres,01221200,"Bebidas energizantes y a base de arroz, soya, coco y similares",0.000419639110365086,0.19,0.19,0.0,0.0,Energizantes 19%
+vulnerables,01110100,Arroz,0.0893980233602875,0.0,0.0,0.0,0.0,"Arroz: exento, sigue exento"
+vulnerables,01110200,Pastas alimenticias,0.008984725965858042,0.05,0.19,1.0,0.1333333333333333,Pastas 5%->19% (468-1 eliminado)
+vulnerables,01110300,Avena y sus derivados,0.001347708894878706,0.05,0.19,1.0,0.1333333333333333,Avena hojuelas 5%->19%
+vulnerables,01110500,Trigo y sus derivados,0.001347708894878706,0.05,0.19,1.0,0.1333333333333333,Harina de trigo 5%->19%
+vulnerables,01110600,Maíz y sus derivados,0.0067385444743935305,0.05,0.19,1.0,0.1333333333333333,Harinas de maíz 5%->19% (11.02); maíz trillado excl.->19% (ESTIMADO todo a 5%)
+vulnerables,01110800,Pan,0.047619047619047616,0.0,0.0,0.0,0.0,"Pan y arepa: excluido, sigue excluido (19.05)"
+vulnerables,01119800,"Otras harinas, cereales y almidones",0.015274034141958671,0.19,0.19,0.0,0.0,Harina tortas/cereal 19% sin cambio; arepa precocida sigue excluida (ESTIMADO sin cambio)
+vulnerables,01119900,Otros productos de panadería,0.014375561545372865,0.19,0.19,0.0,0.0,Galletas 19% sin cambio
+vulnerables,01120100,Carne de res y derivados,0.12938005390835577,0.0,0.0,0.0,0.0,Res: exento sigue exento
+vulnerables,01120200,Carne de cerdo y derivados,0.027852650494159924,0.0,0.0,0.0,0.0,Cerdo: exento sigue exento
+vulnerables,01120300,Carne de aves,0.08580413297394429,0.0,0.0,0.0,0.0,Pollo: exento sigue exento
+vulnerables,01120500,"Carnes preparadas, charcutería y otros productos conteniendo carne",0.022911051212938006,0.05,0.0,0.4,-0.01904761904761907,Mortadela/salchichón 5%->exento (40% ESTIMADO); salchicha/jamón/chorizo 19%
+vulnerables,01130300,Productos de rio y mar (incluye pescados y camarones frescos o congelados y pescado enlatado como sardinas y atún),0.03504043126684636,0.0,0.0,0.0,0.0,Pescado fresco exento; enlatado sin cambio (ESTIMADO sin cambio)
+vulnerables,01140100,Leche,0.06244384546271338,0.0,0.0,0.0,0.0,Leche exenta sigue exenta
+vulnerables,01140200,Quesos y productos afines,0.027852650494159924,0.0,0.19,0.7,0.13299999999999995,Queso fresco exento->19% (no está en nuevo art. 477); 70% queso fresco ESTIMADO
+vulnerables,01140500,Huevos,0.04986522911051213,0.0,0.0,0.0,0.0,Huevos exentos siguen exentos
+vulnerables,01149900,Otros derivados de la leche,0.012129380053908356,0.19,0.19,0.0,0.0,Yogur/kumis 19% sin cambio (ESTIMADO)
+vulnerables,01150100,Aceites comestibles,0.029649595687331536,0.19,0.19,0.0,0.0,Aceite refinado 19% sin cambio (solo aceites en bruto en 468-1)
+vulnerables,01150200,Mantequilla de vaca,0.002695417789757412,0.19,0.19,0.0,0.0,Mantequilla 19%
+vulnerables,01150500,Margarinas y grasas animales y vegetales,0.001347708894878706,0.19,0.19,0.0,0.0,Margarinas 19%
+vulnerables,01160200,Frutas congeladas o en pulpa,0.0008984725965858041,0.19,0.19,0.0,0.0,Pulpa/congeladas 19% (ESTIMADO)
+vulnerables,01160300,"Frutos secos y nueces, cáscaras de frutas y semillas comestibles",0.00044923629829290204,0.19,0.19,0.0,0.0,Frutos secos 19% (ESTIMADO)
+vulnerables,01160500,Naranjas,0.0017969451931716081,0.0,0.19,1.0,0.18999999999999995,Naranjas excluidas->19% (08.05 sale del 424)
+vulnerables,01160600,Bananos,0.0035938903863432163,0.0,0.19,1.0,0.18999999999999995,Bananos excluidos->19% (08.03)
+vulnerables,01160700,Tomate de árbol,0.006289308176100629,0.0,0.19,1.0,0.18999999999999995,Tomate de árbol excluido->19% (08.10)
+vulnerables,01160800,Moras,0.004941599281221922,0.0,0.19,1.0,0.18999999999999995,Moras excluidas->19% (08.10)
+vulnerables,01160900,Frutas frescas (ii),0.030548068283917342,0.0,0.19,1.0,0.18999999999999995,Frutas frescas excluidas->19% (cap. 08)
+vulnerables,01170200,Legumbres secas,0.017070979335130278,0.0,0.19,1.0,0.18999999999999995,"Legumbres secas (fríjol, lenteja 07.13) excluidas->19%"
+vulnerables,01170300,Legumbres y hortalizas en conserva y deshidratadas,0.0017969451931716081,0.19,0.19,0.0,0.0,Conservas 19% sin cambio
+vulnerables,01170400,Plátanos,0.026055705300988316,0.0,0.19,1.0,0.18999999999999995,Plátano excluido->19% (08.03)
+vulnerables,01170500,Papas,0.023360287511230905,0.0,0.0,0.0,0.0,Papa excluida sigue excluida (07.01)
+vulnerables,01170600,Yuca para consumo en el hogar,0.008535489667565139,0.0,0.0,0.0,0.0,Yuca excluida sigue excluida (07.14)
+vulnerables,01171100,"Productos derivados de los tubérculos, raíces y plátanos",0.00044923629829290204,0.19,0.19,0.0,0.0,Derivados tubérculos 19% (ESTIMADO)
+vulnerables,01171200,"Arracacha, ñame y otros tubérculos",0.0022461814914645105,0.0,0.0,0.0,0.0,Arracacha/ñame siguen excluidos (07.14)
+vulnerables,01171300,Tomate,0.013477088948787061,0.0,0.19,1.0,0.18999999999999995,Tomate excluido->19% (07.02)
+vulnerables,01171400,Cebolla,0.017070979335130278,0.0,0.19,1.0,0.18999999999999995,Cebolla excluida->19% (07.03)
+vulnerables,01171500,Zanahoria,0.002695417789757412,0.0,0.19,1.0,0.18999999999999995,Zanahoria excluida->19% (07.06)
+vulnerables,01171600,Hortalizas y legumbres frescas (ii),0.01976639712488769,0.0,0.19,0.75,0.14249999999999996,Hortalizas frescas excl.->19%; hortalizas de vaina (07.08) siguen excl. (25% ESTIMADO)
+vulnerables,01180100,Azúcar y otros endulzantes,0.01976639712488769,0.05,0.19,1.0,0.1333333333333333,Azúcar 5%->19%
+vulnerables,01180200,Panela cruda para consumo en el hogar,0.012578616352201259,0.0,0.0,0.0,0.0,Panela sigue excluida
+vulnerables,01180300,"Jaleas, mermeladas, miel y similares",0.002695417789757412,0.0,0.19,0.5,0.09499999999999997,Miel/bocadillo artesanal excl.->19%; mermelada 19% (50% ESTIMADO)
+vulnerables,01180500,"Dulces, confites, caramelos, bombones, chocolatinas, chicles, masmelos, cocadas para consumo en el hogar",0.004043126684636118,0.19,0.19,0.0,0.0,Dulces 19%
+vulnerables,01180600,"Helados, conos, paletas, vasitos, refrescos congelados y tortas heladas para consumo en el hogar",0.0035938903863432163,0.19,0.19,0.0,0.0,Helados 19%
+vulnerables,01180700,"Gelatinas, flanes y pudines en polvo para preparar",0.0008984725965858041,0.19,0.19,0.0,0.0,Gelatinas 19%
+vulnerables,01190100,"Salsas, pastas y aderezos",0.008086253369272236,0.19,0.19,0.0,0.0,Salsas 19%
+vulnerables,01190200,Sal,0.001347708894878706,0.0,0.19,1.0,0.18999999999999995,Sal excluida->19% (25.01 sale del 424)
+vulnerables,01190500,"Sopas, cremas, caldos y consomés",0.004043126684636118,0.19,0.19,0.0,0.0,Caldos 19%
+vulnerables,01190600,"Frituras: papas fritas, chitos, maizitos, patacones, besitos, etc., para consumo en el hogar",0.0067385444743935305,0.19,0.19,0.0,0.0,Frituras 19%
+vulnerables,01190800,Condimentos y hierbas culinarias,0.004043126684636118,0.0,0.19,0.5,0.09499999999999997,Condimentos: hierbas frescas excl.->19% (50% ESTIMADO)
+vulnerables,01191100,Leche en polvo para lactantes,0.0031446540880503146,0.0,0.0,0.0,0.0,Fórmulas lácteas exentas siguen exentas
+vulnerables,01199900,"Otros alimentos precocidos y preparados: ajiaco, lenteja, frijol, lechona enlatada y similares",0.00044923629829290204,0.19,0.19,0.0,0.0,Precocidos 19%
+vulnerables,01210100,Café y productos a base de café,0.012578616352201259,0.05,0.19,1.0,0.1333333333333333,Café 5%->19%
+vulnerables,01210200,Chocolate y productos a base de chocolate,0.009883198562443844,0.05,0.19,0.7,0.09333333333333331,Chocolate de mesa 5%->19% (70% ESTIMADO); instantáneo 19%
+vulnerables,01210300,Té e infusiones (para bebidas calientes),0.00044923629829290204,0.19,0.19,0.0,0.0,Té 19%
+vulnerables,01220100,Agua mineral (con y sin gas) para consumo en el hogar,0.006289308176100629,0.0,0.0,0.0,0.0,Agua sin azúcar sigue excluida (22.01)
+vulnerables,01220600,"Refrescos líquidos empacados (jugos, té fríos y bebidas hidratantes)",0.0076370170709793355,0.19,0.19,0.0,0.0,Jugos empacados 19%
+vulnerables,01220700,Concentrados para preparar refrescos,0.0035938903863432163,0.19,0.19,0.0,0.0,Refrescos en polvo 19%
+vulnerables,01221100,Gaseosas y maltas para consumo en el hogar,0.034141958670260555,0.19,0.19,0.0,0.0,Gaseosas 19%
+vulnerables,01221200,"Bebidas energizantes y a base de arroz, soya, coco y similares",0.0008984725965858041,0.19,0.19,0.0,0.0,Energizantes 19%
+media,01110100,Arroz,0.05640050697084918,0.0,0.0,0.0,0.0,"Arroz: exento, sigue exento"
+media,01110200,Pastas alimenticias,0.0076045627376425855,0.05,0.19,1.0,0.1333333333333333,Pastas 5%->19% (468-1 eliminado)
+media,01110300,Avena y sus derivados,0.0019011406844106464,0.05,0.19,1.0,0.1333333333333333,Avena hojuelas 5%->19%
+media,01110500,Trigo y sus derivados,0.001267427122940431,0.05,0.19,1.0,0.1333333333333333,Harina de trigo 5%->19%
+media,01110600,Maíz y sus derivados,0.004435994930291509,0.05,0.19,1.0,0.1333333333333333,Harinas de maíz 5%->19% (11.02); maíz trillado excl.->19% (ESTIMADO todo a 5%)
+media,01110800,Pan,0.044993662864385296,0.0,0.0,0.0,0.0,"Pan y arepa: excluido, sigue excluido (19.05)"
+media,01119800,"Otras harinas, cereales y almidones",0.020278833967046897,0.19,0.19,0.0,0.0,Harina tortas/cereal 19% sin cambio; arepa precocida sigue excluida (ESTIMADO sin cambio)
+media,01119900,Otros productos de panadería,0.019011406844106463,0.19,0.19,0.0,0.0,Galletas 19% sin cambio
+media,01120100,Carne de res y derivados,0.12991128010139416,0.0,0.0,0.0,0.0,Res: exento sigue exento
+media,01120200,Carne de cerdo y derivados,0.03548795944233207,0.0,0.0,0.0,0.0,Cerdo: exento sigue exento
+media,01120300,Carne de aves,0.08365019011406845,0.0,0.0,0.0,0.0,Pollo: exento sigue exento
+media,01120500,"Carnes preparadas, charcutería y otros productos conteniendo carne",0.026615969581749048,0.05,0.0,0.4,-0.01904761904761907,Mortadela/salchichón 5%->exento (40% ESTIMADO); salchicha/jamón/chorizo 19%
+media,01130300,Productos de rio y mar (incluye pescados y camarones frescos o congelados y pescado enlatado como sardinas y atún),0.03802281368821293,0.0,0.0,0.0,0.0,Pescado fresco exento; enlatado sin cambio (ESTIMADO sin cambio)
+media,01140100,Leche,0.07160963244613434,0.0,0.0,0.0,0.0,Leche exenta sigue exenta
+media,01140200,Quesos y productos afines,0.029150823827629915,0.0,0.19,0.7,0.13299999999999995,Queso fresco exento->19% (no está en nuevo art. 477); 70% queso fresco ESTIMADO
+media,01140500,Huevos,0.044993662864385296,0.0,0.0,0.0,0.0,Huevos exentos siguen exentos
+media,01149900,Otros derivados de la leche,0.015842839036755388,0.19,0.19,0.0,0.0,Yogur/kumis 19% sin cambio (ESTIMADO)
+media,01150100,Aceites comestibles,0.030418250950570342,0.19,0.19,0.0,0.0,Aceite refinado 19% sin cambio (solo aceites en bruto en 468-1)
+media,01150200,Mantequilla de vaca,0.0031685678073510777,0.19,0.19,0.0,0.0,Mantequilla 19%
+media,01150500,Margarinas y grasas animales y vegetales,0.002534854245880862,0.19,0.19,0.0,0.0,Margarinas 19%
+media,01160200,Frutas congeladas o en pulpa,0.001267427122940431,0.19,0.19,0.0,0.0,Pulpa/congeladas 19% (ESTIMADO)
+media,01160300,"Frutos secos y nueces, cáscaras de frutas y semillas comestibles",0.001267427122940431,0.19,0.19,0.0,0.0,Frutos secos 19% (ESTIMADO)
+media,01160500,Naranjas,0.0038022813688212928,0.0,0.19,1.0,0.18999999999999995,Naranjas excluidas->19% (08.05 sale del 424)
+media,01160600,Bananos,0.004435994930291509,0.0,0.19,1.0,0.18999999999999995,Bananos excluidos->19% (08.03)
+media,01160700,Tomate de árbol,0.005069708491761724,0.0,0.19,1.0,0.18999999999999995,Tomate de árbol excluido->19% (08.10)
+media,01160800,Moras,0.004435994930291509,0.0,0.19,1.0,0.18999999999999995,Moras excluidas->19% (08.10)
+media,01160900,Frutas frescas (ii),0.046261089987325726,0.0,0.19,1.0,0.18999999999999995,Frutas frescas excluidas->19% (cap. 08)
+media,01170200,Legumbres secas,0.015842839036755388,0.0,0.19,1.0,0.18999999999999995,"Legumbres secas (fríjol, lenteja 07.13) excluidas->19%"
+media,01170300,Legumbres y hortalizas en conserva y deshidratadas,0.0038022813688212928,0.19,0.19,0.0,0.0,Conservas 19% sin cambio
+media,01170400,Plátanos,0.020278833967046897,0.0,0.19,1.0,0.18999999999999995,Plátano excluido->19% (08.03)
+media,01170500,Papas,0.01964512040557668,0.0,0.0,0.0,0.0,Papa excluida sigue excluida (07.01)
+media,01170600,Yuca para consumo en el hogar,0.00697084917617237,0.0,0.0,0.0,0.0,Yuca excluida sigue excluida (07.14)
+media,01171100,"Productos derivados de los tubérculos, raíces y plátanos",0.0006337135614702155,0.19,0.19,0.0,0.0,Derivados tubérculos 19% (ESTIMADO)
+media,01171200,"Arracacha, ñame y otros tubérculos",0.0019011406844106464,0.0,0.0,0.0,0.0,Arracacha/ñame siguen excluidos (07.14)
+media,01171300,Tomate,0.011406844106463879,0.0,0.19,1.0,0.18999999999999995,Tomate excluido->19% (07.02)
+media,01171400,Cebolla,0.01267427122940431,0.0,0.19,1.0,0.18999999999999995,Cebolla excluida->19% (07.03)
+media,01171500,Zanahoria,0.0031685678073510777,0.0,0.19,1.0,0.18999999999999995,Zanahoria excluida->19% (07.06)
+media,01171600,Hortalizas y legumbres frescas (ii),0.022813688212927757,0.0,0.19,0.75,0.14249999999999996,Hortalizas frescas excl.->19%; hortalizas de vaina (07.08) siguen excl. (25% ESTIMADO)
+media,01180100,Azúcar y otros endulzantes,0.016476552598225603,0.05,0.19,1.0,0.1333333333333333,Azúcar 5%->19%
+media,01180200,Panela cruda para consumo en el hogar,0.010139416983523449,0.0,0.0,0.0,0.0,Panela sigue excluida
+media,01180300,"Jaleas, mermeladas, miel y similares",0.0031685678073510777,0.0,0.19,0.5,0.09499999999999997,Miel/bocadillo artesanal excl.->19%; mermelada 19% (50% ESTIMADO)
+media,01180500,"Dulces, confites, caramelos, bombones, chocolatinas, chicles, masmelos, cocadas para consumo en el hogar",0.0038022813688212928,0.19,0.19,0.0,0.0,Dulces 19%
+media,01180600,"Helados, conos, paletas, vasitos, refrescos congelados y tortas heladas para consumo en el hogar",0.004435994930291509,0.19,0.19,0.0,0.0,Helados 19%
+media,01180700,"Gelatinas, flanes y pudines en polvo para preparar",0.0006337135614702155,0.19,0.19,0.0,0.0,Gelatinas 19%
+media,01190100,"Salsas, pastas y aderezos",0.011406844106463879,0.19,0.19,0.0,0.0,Salsas 19%
+media,01190200,Sal,0.001267427122940431,0.0,0.19,1.0,0.18999999999999995,Sal excluida->19% (25.01 sale del 424)
+media,01190500,"Sopas, cremas, caldos y consomés",0.0031685678073510777,0.19,0.19,0.0,0.0,Caldos 19%
+media,01190600,"Frituras: papas fritas, chitos, maizitos, patacones, besitos, etc., para consumo en el hogar",0.0076045627376425855,0.19,0.19,0.0,0.0,Frituras 19%
+media,01190800,Condimentos y hierbas culinarias,0.004435994930291509,0.0,0.19,0.5,0.09499999999999997,Condimentos: hierbas frescas excl.->19% (50% ESTIMADO)
+media,01191100,Leche en polvo para lactantes,0.0031685678073510777,0.0,0.0,0.0,0.0,Fórmulas lácteas exentas siguen exentas
+media,01199900,"Otros alimentos precocidos y preparados: ajiaco, lenteja, frijol, lechona enlatada y similares",0.0006337135614702155,0.19,0.19,0.0,0.0,Precocidos 19%
+media,01210100,Café y productos a base de café,0.01394169835234474,0.05,0.19,1.0,0.1333333333333333,Café 5%->19%
+media,01210200,Chocolate y productos a base de chocolate,0.01267427122940431,0.05,0.19,0.7,0.09333333333333331,Chocolate de mesa 5%->19% (70% ESTIMADO); instantáneo 19%
+media,01210300,Té e infusiones (para bebidas calientes),0.0006337135614702155,0.19,0.19,0.0,0.0,Té 19%
+media,01220100,Agua mineral (con y sin gas) para consumo en el hogar,0.0076045627376425855,0.0,0.0,0.0,0.0,Agua sin azúcar sigue excluida (22.01)
+media,01220600,"Refrescos líquidos empacados (jugos, té fríos y bebidas hidratantes)",0.008871989860583018,0.19,0.19,0.0,0.0,Jugos empacados 19%
+media,01220700,Concentrados para preparar refrescos,0.0019011406844106464,0.19,0.19,0.0,0.0,Refrescos en polvo 19%
+media,01221100,Gaseosas y maltas para consumo en el hogar,0.029784537389100127,0.19,0.19,0.0,0.0,Gaseosas 19%
+media,01221200,"Bebidas energizantes y a base de arroz, soya, coco y similares",0.001267427122940431,0.19,0.19,0.0,0.0,Energizantes 19%
+altos,01110100,Arroz,0.025703794369645042,0.0,0.0,0.0,0.0,"Arroz: exento, sigue exento"
+altos,01110200,Pastas alimenticias,0.0073439412484700125,0.05,0.19,1.0,0.1333333333333333,Pastas 5%->19% (468-1 eliminado)
+altos,01110300,Avena y sus derivados,0.002447980416156671,0.05,0.19,1.0,0.1333333333333333,Avena hojuelas 5%->19%
+altos,01110500,Trigo y sus derivados,0.0012239902080783355,0.05,0.19,1.0,0.1333333333333333,Harina de trigo 5%->19%
+altos,01110600,Maíz y sus derivados,0.002447980416156671,0.05,0.19,1.0,0.1333333333333333,Harinas de maíz 5%->19% (11.02); maíz trillado excl.->19% (ESTIMADO todo a 5%)
+altos,01110800,Pan,0.037943696450428395,0.0,0.0,0.0,0.0,"Pan y arepa: excluido, sigue excluido (19.05)"
+altos,01119800,"Otras harinas, cereales y almidones",0.030599755201958383,0.19,0.19,0.0,0.0,Harina tortas/cereal 19% sin cambio; arepa precocida sigue excluida (ESTIMADO sin cambio)
+altos,01119900,Otros productos de panadería,0.023255813953488372,0.19,0.19,0.0,0.0,Galletas 19% sin cambio
+altos,01120100,Carne de res y derivados,0.1003671970624235,0.0,0.0,0.0,0.0,Res: exento sigue exento
+altos,01120200,Carne de cerdo y derivados,0.025703794369645042,0.0,0.0,0.0,0.0,Cerdo: exento sigue exento
+altos,01120300,Carne de aves,0.06854345165238679,0.0,0.0,0.0,0.0,Pollo: exento sigue exento
+altos,01120500,"Carnes preparadas, charcutería y otros productos conteniendo carne",0.034271725826193394,0.05,0.0,0.4,-0.01904761904761907,Mortadela/salchichón 5%->exento (40% ESTIMADO); salchicha/jamón/chorizo 19%
+altos,01130300,Productos de rio y mar (incluye pescados y camarones frescos o congelados y pescado enlatado como sardinas y atún),0.05630354957160343,0.0,0.0,0.0,0.0,Pescado fresco exento; enlatado sin cambio (ESTIMADO sin cambio)
+altos,01140100,Leche,0.06364749082007344,0.0,0.0,0.0,0.0,Leche exenta sigue exenta
+altos,01140200,Quesos y productos afines,0.04406364749082007,0.0,0.19,0.7,0.13299999999999995,Queso fresco exento->19% (no está en nuevo art. 477); 70% queso fresco ESTIMADO
+altos,01140500,Huevos,0.034271725826193394,0.0,0.0,0.0,0.0,Huevos exentos siguen exentos
+altos,01149900,Otros derivados de la leche,0.02447980416156671,0.19,0.19,0.0,0.0,Yogur/kumis 19% sin cambio (ESTIMADO)
+altos,01150100,Aceites comestibles,0.030599755201958383,0.19,0.19,0.0,0.0,Aceite refinado 19% sin cambio (solo aceites en bruto en 468-1)
+altos,01150200,Mantequilla de vaca,0.0036719706242350062,0.19,0.19,0.0,0.0,Mantequilla 19%
+altos,01150500,Margarinas y grasas animales y vegetales,0.002447980416156671,0.19,0.19,0.0,0.0,Margarinas 19%
+altos,01160200,Frutas congeladas o en pulpa,0.002447980416156671,0.19,0.19,0.0,0.0,Pulpa/congeladas 19% (ESTIMADO)
+altos,01160300,"Frutos secos y nueces, cáscaras de frutas y semillas comestibles",0.004895960832313342,0.19,0.19,0.0,0.0,Frutos secos 19% (ESTIMADO)
+altos,01160500,Naranjas,0.008567931456548349,0.0,0.19,1.0,0.18999999999999995,Naranjas excluidas->19% (08.05 sale del 424)
+altos,01160600,Bananos,0.006119951040391677,0.0,0.19,1.0,0.18999999999999995,Bananos excluidos->19% (08.03)
+altos,01160700,Tomate de árbol,0.002447980416156671,0.0,0.19,1.0,0.18999999999999995,Tomate de árbol excluido->19% (08.10)
+altos,01160800,Moras,0.0036719706242350062,0.0,0.19,1.0,0.18999999999999995,Moras excluidas->19% (08.10)
+altos,01160900,Frutas frescas (ii),0.08323133414932682,0.0,0.19,1.0,0.18999999999999995,Frutas frescas excluidas->19% (cap. 08)
+altos,01170200,Legumbres secas,0.014687882496940025,0.0,0.19,1.0,0.18999999999999995,"Legumbres secas (fríjol, lenteja 07.13) excluidas->19%"
+altos,01170300,Legumbres y hortalizas en conserva y deshidratadas,0.008567931456548349,0.19,0.19,0.0,0.0,Conservas 19% sin cambio
+altos,01170400,Plátanos,0.012239902080783354,0.0,0.19,1.0,0.18999999999999995,Plátano excluido->19% (08.03)
+altos,01170500,Papas,0.012239902080783354,0.0,0.0,0.0,0.0,Papa excluida sigue excluida (07.01)
+altos,01170600,Yuca para consumo en el hogar,0.0036719706242350062,0.0,0.0,0.0,0.0,Yuca excluida sigue excluida (07.14)
+altos,01171100,"Productos derivados de los tubérculos, raíces y plátanos",0.0012239902080783355,0.19,0.19,0.0,0.0,Derivados tubérculos 19% (ESTIMADO)
+altos,01171200,"Arracacha, ñame y otros tubérculos",0.0012239902080783355,0.0,0.0,0.0,0.0,Arracacha/ñame siguen excluidos (07.14)
+altos,01171300,Tomate,0.009791921664626684,0.0,0.19,1.0,0.18999999999999995,Tomate excluido->19% (07.02)
+altos,01171400,Cebolla,0.009791921664626684,0.0,0.19,1.0,0.18999999999999995,Cebolla excluida->19% (07.03)
+altos,01171500,Zanahoria,0.002447980416156671,0.0,0.19,1.0,0.18999999999999995,Zanahoria excluida->19% (07.06)
+altos,01171600,Hortalizas y legumbres frescas (ii),0.028151774785801716,0.0,0.19,0.75,0.14249999999999996,Hortalizas frescas excl.->19%; hortalizas de vaina (07.08) siguen excl. (25% ESTIMADO)
+altos,01180100,Azúcar y otros endulzantes,0.01346389228886169,0.05,0.19,1.0,0.1333333333333333,Azúcar 5%->19%
+altos,01180200,Panela cruda para consumo en el hogar,0.004895960832313342,0.0,0.0,0.0,0.0,Panela sigue excluida
+altos,01180300,"Jaleas, mermeladas, miel y similares",0.006119951040391677,0.0,0.19,0.5,0.09499999999999997,Miel/bocadillo artesanal excl.->19%; mermelada 19% (50% ESTIMADO)
+altos,01180500,"Dulces, confites, caramelos, bombones, chocolatinas, chicles, masmelos, cocadas para consumo en el hogar",0.004895960832313342,0.19,0.19,0.0,0.0,Dulces 19%
+altos,01180600,"Helados, conos, paletas, vasitos, refrescos congelados y tortas heladas para consumo en el hogar",0.004895960832313342,0.19,0.19,0.0,0.0,Helados 19%
+altos,01180700,"Gelatinas, flanes y pudines en polvo para preparar",0.0012239902080783355,0.19,0.19,0.0,0.0,Gelatinas 19%
+altos,01190100,"Salsas, pastas y aderezos",0.01591187270501836,0.19,0.19,0.0,0.0,Salsas 19%
+altos,01190200,Sal,0.0012239902080783355,0.0,0.19,1.0,0.18999999999999995,Sal excluida->19% (25.01 sale del 424)
+altos,01190500,"Sopas, cremas, caldos y consomés",0.004895960832313342,0.19,0.19,0.0,0.0,Caldos 19%
+altos,01190600,"Frituras: papas fritas, chitos, maizitos, patacones, besitos, etc., para consumo en el hogar",0.011015911872705017,0.19,0.19,0.0,0.0,Frituras 19%
+altos,01190800,Condimentos y hierbas culinarias,0.004895960832313342,0.0,0.19,0.5,0.09499999999999997,Condimentos: hierbas frescas excl.->19% (50% ESTIMADO)
+altos,01191100,Leche en polvo para lactantes,0.012239902080783354,0.0,0.0,0.0,0.0,Fórmulas lácteas exentas siguen exentas
+altos,01199900,"Otros alimentos precocidos y preparados: ajiaco, lenteja, frijol, lechona enlatada y similares",0.0012239902080783355,0.19,0.19,0.0,0.0,Precocidos 19%
+altos,01210100,Café y productos a base de café,0.01591187270501836,0.05,0.19,1.0,0.1333333333333333,Café 5%->19%
+altos,01210200,Chocolate y productos a base de chocolate,0.01346389228886169,0.05,0.19,0.7,0.09333333333333331,Chocolate de mesa 5%->19% (70% ESTIMADO); instantáneo 19%
+altos,01210300,Té e infusiones (para bebidas calientes),0.002447980416156671,0.19,0.19,0.0,0.0,Té 19%
+altos,01220100,Agua mineral (con y sin gas) para consumo en el hogar,0.011015911872705017,0.0,0.0,0.0,0.0,Agua sin azúcar sigue excluida (22.01)
+altos,01220600,"Refrescos líquidos empacados (jugos, té fríos y bebidas hidratantes)",0.012239902080783354,0.19,0.19,0.0,0.0,Jugos empacados 19%
+altos,01220700,Concentrados para preparar refrescos,0.0012239902080783355,0.19,0.19,0.0,0.0,Refrescos en polvo 19%
+altos,01221100,Gaseosas y maltas para consumo en el hogar,0.01835985312117503,0.19,0.19,0.0,0.0,Gaseosas 19%
+altos,01221200,"Bebidas energizantes y a base de arroz, soya, coco y similares",0.0036719706242350062,0.19,0.19,0.0,0.0,Energizantes 19%

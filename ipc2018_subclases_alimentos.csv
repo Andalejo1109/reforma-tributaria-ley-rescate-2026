@@ -1,0 +1,60 @@
+cod,nombre,total,pobres,vulnerables,media,altos
+01110100,Arroz,0.93,2.56,1.99,0.89,0.21
+01110200,Pastas alimenticias,0.12,0.24,0.2,0.12,0.06
+01110300,Avena y sus derivados,0.03,0.04,0.03,0.03,0.02
+01110500,Trigo y sus derivados,0.02,0.04,0.03,0.02,0.01
+01110600,Maíz y sus derivados,0.07,0.21,0.15,0.07,0.02
+01110800,Pan,0.68,1.21,1.06,0.71,0.31
+01119800,"Otras harinas, cereales y almidones",0.3,0.29,0.34,0.32,0.25
+01119900,Otros productos de panadería,0.27,0.33,0.32,0.3,0.19
+01120100,Carne de res y derivados,1.88,2.77,2.88,2.05,0.82
+01120200,Carne de cerdo y derivados,0.48,0.53,0.62,0.56,0.21
+01120300,Carne de aves,1.24,2.04,1.91,1.32,0.56
+01120500,"Carnes preparadas, charcutería y otros productos conteniendo carne",0.4,0.51,0.51,0.42,0.28
+01130300,Productos de rio y mar (incluye pescados y camarones frescos o congelados y pescado enlatado como sardinas y atún),0.6,0.89,0.78,0.6,0.46
+01140100,Leche,1.02,1.38,1.39,1.13,0.52
+01140200,Quesos y productos afines,0.46,0.69,0.62,0.46,0.36
+01140500,Huevos,0.68,1.31,1.11,0.71,0.28
+01149900,Otros derivados de la leche,0.24,0.25,0.27,0.25,0.2
+01150100,Aceites comestibles,0.45,0.76,0.66,0.48,0.25
+01150200,Mantequilla de vaca,0.05,0.06,0.06,0.05,0.03
+01150500,Margarinas y grasas animales y vegetales,0.03,0.04,0.03,0.04,0.02
+01160200,Frutas congeladas o en pulpa,0.02,0.02,0.02,0.02,0.02
+01160300,"Frutos secos y nueces, cáscaras de frutas y semillas comestibles",0.02,0.01,0.01,0.02,0.04
+01160500,Naranjas,0.06,0.05,0.04,0.06,0.07
+01160600,Bananos,0.06,0.08,0.08,0.07,0.05
+01160700,Tomate de árbol,0.07,0.13,0.14,0.08,0.02
+01160800,Moras,0.07,0.09,0.11,0.07,0.03
+01160900,Frutas frescas (ii),0.7,0.62,0.68,0.73,0.68
+01170200,Legumbres secas,0.24,0.43,0.38,0.25,0.12
+01170300,Legumbres y hortalizas en conserva y deshidratadas,0.06,0.06,0.04,0.06,0.07
+01170400,Plátanos,0.31,0.66,0.58,0.32,0.1
+01170500,Papas,0.3,0.56,0.52,0.31,0.1
+01170600,Yuca para consumo en el hogar,0.11,0.22,0.19,0.11,0.03
+01171100,"Productos derivados de los tubérculos, raíces y plátanos",0.01,0.01,0.01,0.01,0.01
+01171200,"Arracacha, ñame y otros tubérculos",0.03,0.05,0.05,0.03,0.01
+01171300,Tomate,0.18,0.33,0.3,0.18,0.08
+01171400,Cebolla,0.2,0.41,0.38,0.2,0.08
+01171500,Zanahoria,0.04,0.06,0.06,0.05,0.02
+01171600,Hortalizas y legumbres frescas (ii),0.34,0.41,0.44,0.36,0.23
+01180100,Azúcar y otros endulzantes,0.26,0.49,0.44,0.26,0.11
+01180200,Panela cruda para consumo en el hogar,0.16,0.38,0.28,0.16,0.04
+01180300,"Jaleas, mermeladas, miel y similares",0.05,0.06,0.06,0.05,0.05
+01180500,"Dulces, confites, caramelos, bombones, chocolatinas, chicles, masmelos, cocadas para consumo en el hogar",0.06,0.1,0.09,0.06,0.04
+01180600,"Helados, conos, paletas, vasitos, refrescos congelados y tortas heladas para consumo en el hogar",0.06,0.08,0.08,0.07,0.04
+01180700,"Gelatinas, flanes y pudines en polvo para preparar",0.01,0.01,0.02,0.01,0.01
+01190100,"Salsas, pastas y aderezos",0.16,0.17,0.18,0.18,0.13
+01190200,Sal,0.02,0.04,0.03,0.02,0.01
+01190500,"Sopas, cremas, caldos y consomés",0.06,0.12,0.09,0.05,0.04
+01190600,"Frituras: papas fritas, chitos, maizitos, patacones, besitos, etc., para consumo en el hogar",0.11,0.16,0.15,0.12,0.09
+01190800,Condimentos y hierbas culinarias,0.06,0.11,0.09,0.07,0.04
+01191100,Leche en polvo para lactantes,0.06,0.05,0.07,0.05,0.1
+01199900,"Otros alimentos precocidos y preparados: ajiaco, lenteja, frijol, lechona enlatada y similares",0.01,0.02,0.01,0.01,0.01
+01210100,Café y productos a base de café,0.21,0.31,0.28,0.22,0.13
+01210200,Chocolate y productos a base de chocolate,0.18,0.25,0.22,0.2,0.11
+01210300,Té e infusiones (para bebidas calientes),0.01,0.01,0.01,0.01,0.02
+01220100,Agua mineral (con y sin gas) para consumo en el hogar,0.12,0.12,0.14,0.12,0.09
+01220600,"Refrescos líquidos empacados (jugos, té fríos y bebidas hidratantes)",0.14,0.17,0.17,0.14,0.1
+01220700,Concentrados para preparar refrescos,0.03,0.11,0.08,0.03,0.01
+01221100,Gaseosas y maltas para consumo en el hogar,0.44,0.71,0.76,0.47,0.15
+01221200,"Bebidas energizantes y a base de arroz, soya, coco y similares",0.02,0.01,0.02,0.02,0.03

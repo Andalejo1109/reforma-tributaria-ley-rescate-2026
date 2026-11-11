@@ -1,0 +1,18 @@
+# Microdatos crudos y anexos grandes (descargar con descargar_geih.py)
+geih/
+src/
+*.zip
+*.pdf
+*.xls
+*.xlsx
+*.DTA
+*.dta
+*.SAV
+*.sav
+# Entorno
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
